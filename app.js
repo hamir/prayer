@@ -10,7 +10,7 @@ const args = process.argv.slice(2);
 
 const daily_participants = {
   'fajr': ['Hashim Mir', 'Amjad Mir'],
-  'isha': ['Amjad Mir', 'Hashim Mir', 'Ibrahim Mir'],
+  'isha': ['Amjad Mir', 'Hashim Mir'],
   // 'dhuhr-2': ['Hashim Mir'],
   // 'asr': ['Hashim Mir'],
 };
